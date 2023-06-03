@@ -1,0 +1,2 @@
+a1|RB26|Gasolina|2.4|280Hp|350Nm|
+focus-a10|Ecoboost|Gasolina|2.0|255Hp|320Nm|
